@@ -1,2 +1,2 @@
 # RLBot-BoostBoy
-PenguinBot re-make, but it likes Boosting more.
+This PenguinBot re-make is designed to like boosting more.
